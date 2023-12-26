@@ -1,11 +1,22 @@
 body {
     background: peachpuff;
     font-family: 'Courier New', Courier, monospace;
-    width: 980px auto;
+    width: auto;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: disc;
 }
 
 li {
     margin: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
 
 .header {
@@ -14,7 +25,8 @@ li {
     margin: auto;
     margin-bottom: 34px;
     padding: 14px;
-    width: 1000px;
+    width: 1500px;
+    box-sizing: border-box;
     text-align: center;
 }
 
@@ -25,6 +37,6 @@ li {
 }
 
 .content {
-    width: 980px;
     margin: auto;
+    width: 1500px;
 }
