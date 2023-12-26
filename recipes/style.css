@@ -1,0 +1,35 @@
+body {
+    background: peachpuff;
+    font-family: 'Courier New', Courier, monospace;
+    width: 980px auto;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 38px;
+}
+
+li {
+    margin: 8px;
+}
+
+.header {
+    background-color: brown;
+    color: wheat;
+    margin: auto;
+    margin-bottom: 34px;
+    padding: 16px;
+    width: 1000px;
+    text-align: center;
+}
+
+.subheader {
+    background-color: chocolate;
+    color: wheat;
+    padding: 12px;
+}
+
+.content {
+    width: 980px;
+    margin: auto;
+}
